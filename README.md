@@ -1,45 +1,52 @@
-# 👋 Hi, I'm YiJieqwq异界 
-### 一名喜欢写小工具、写创新、做优化、折腾开源的开发者
+# 👋 Hi, I'm YiJieqwq
+
+### A developer who loves building small tools, exploring new ideas, optimizing things, and tinkering with open source.
 
 ---
 
-## 📌 关于我
-- 目前在做 内核态模块、Agent 框架、Android 工具开发、ROOT检测绕过
-- 喜欢创新、开源，为开源社区作出贡献；重构、优化、让老工具重获新生
-- 开源理念：实用、好用、自主创新
+## 📌 About Me
+
+- Currently working on kernel-level modules, agent frameworks, Android tooling, and root-detection bypass.
+- I enjoy innovating, contributing to open source, and giving old tools a second life through refactoring and optimization.
+- My open-source philosophy: practical, usable, and built on original ideas.
 
 ---
 
-## 🛠 我正在持续维护的开源项目
+## 🛠 Open-Source Projects I Maintain
+
+- **[Android-Native-Overlay](https://github.com/YiJieqwq/Android-Native-Overlay)**
+  A minimal Android native overlay template built with SurfaceComposer, ANativeWindow/EGL, OpenGL ES 3, Dear ImGui, and a non-exclusive `/dev/input` touch observer — no Activity and no Java UI required.
 
 - **[KPMDynaLab](https://github.com/YiJieqwq/KPMDynaLab)**
-  基于 KPatch 内核态模块 ＆ CLI交互程序 的 分析 + 防御 自动化动态分析体系
+  An automated dynamic analysis system for analysis and defense, built on a KPatch kernel-level module and a CLI program.
 
 - **[Corax-RAG-Agent](https://github.com/YiJieqwq/Corax-RAG-Agent)**
-  墨鸦 轻量化single-shot RAG + 幻觉攻击防护 Agent框架
+  Corax — a lightweight single-shot RAG agent framework with hallucination-attack protection.
 
 - **[Inode-Hijacker](https://github.com/YiJieqwq/Inode-Hijacker)**
-  创新交换 + 智能候选 + 文件保留 + Selinux上下文恢复 的 Inode 降低方案
+  An inode-lowering solution for Android featuring transactional swapping, smart candidate selection, content preservation, and SELinux context restoration.
 
 - **[Chunqiu-Detector-Problem-solution](https://github.com/mingzun09/Chunqiu-Detector-Problem-solution)**
-  春秋检测解决文档 针对春秋检测常见检测项的解决方案汇总
+  A curated documentation of solutions for the common detection items used by Chunqiu Detector.
 
-- 还有更多有趣且实用的项目，欢迎查看我的存储库!
-  
----
-
-## 📮 联系方式
-- **QQ**：`2875395255`
-- **酷安**：[点击前往我的酷安主页](https://www.coolapk.com/u/6095524)
+- More interesting and practical projects are in my repositories — take a look!
 
 ---
 
-## 💡 小特点
-- 实用之上 → 一切设计追求使用
-- 注重用户体验 → 实用、高效、不折腾
-- 开源友好 → 不求回报，自由使用
-- 注重创新 → 研究新方法，新架构
+## 📮 Contact
+
+- **QQ**: `2875395255`
+- **Coolapk**: [My Coolapk profile](https://www.coolapk.com/u/6095524)
 
 ---
 
-⭐ **欢迎 Star、Issues、PR，一起让工具变得更好用！**
+## 💡 What I Care About
+
+- Practicality first → every design decision serves real use
+- User experience → practical, efficient, no hassle
+- Open-source friendly → free to use, no strings attached
+- Innovation → exploring new methods and architectures
+
+---
+
+⭐ **Stars, issues, and PRs are all welcome — let's make these tools better together!**
