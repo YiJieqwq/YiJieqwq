@@ -6,7 +6,7 @@
 
 ## 📌 About Me
 
-- Currently working on kernel-level modules, agent frameworks, Android tooling, and root-detection bypass.
+- Currently working on kernel-level modules, agent frameworks, and Android system-level tooling — covering both sides of root detection and bypass.
 - I enjoy innovating, contributing to open source, and giving old tools a second life through refactoring and optimization.
 - My open-source philosophy: practical, usable, and built on original ideas.
 
